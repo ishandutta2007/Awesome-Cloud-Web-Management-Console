@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Cloud-Web-Management-Console"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Web-Management-Console?style=social" alt="GitHub Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Cloud-Web-Management-Console/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Web-Management-Console?style=social" alt="GitHub Forks"/></a> <a href="https://github.com/ishandutta2007/Awesome-Cloud-Web-Management-Console/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cloud-Web-Management-Console?color=blue" alt="License"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Cloud-Web-Management-Console"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Web-Management-Console?style=social" alt="GitHub_Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Cloud-Web-Management-Console/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Web-Management-Console?style=social" alt="GitHub Forks"/></a> <a href="https://github.com/ishandutta2007/Awesome-Cloud-Web-Management-Console/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cloud-Web-Management-Console?color=blue" alt="License"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -61,58 +61,58 @@ Welcome to the ultimate curated directory of **cloud web management consoles**, 
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Coolify](https://github.com/coollabsio/coolify)** [![Stars](https://img.shields.io/github/stars/coollabsio/coolify?style=social&color=white)](https://github.com/coollabsio/coolify/stargazers)  
-  **An open-source & self-hostable Heroku / Netlify / Vercel alternative**, Apache-2.0 licensed. **62,683+ GitHub stars** — The fastest-growing self-hosted PaaS web management console. Manage applications, databases, and services with automatic Let's Encrypt SSL and Git push-to-deploy workflows. 🚀
+  **An open-source & self-hostable Heroku / Netlify / Vercel alternative**, Apache-2.0 licensed. **62,683+ GitHub_Stars** — The fastest-growing self-hosted PaaS web management console. Manage applications, databases, and services with automatic Let's Encrypt SSL and Git push-to-deploy workflows. 🚀
 
 - **[Portainer](https://github.com/portainer/portainer)** [![Stars](https://img.shields.io/github/stars/portainer/portainer?style=social&color=white)](https://github.com/portainer/portainer/stargazers)  
-  **Container management for Docker and Kubernetes**, zlib licensed. **38,621+ GitHub stars** — The definitive web UI for managing containers, images, volumes, networks, and Helm stacks across multi-cluster environments. 🐳
+  **Container management for Docker and Kubernetes**, zlib licensed. **38,621+ GitHub_Stars** — The definitive web UI for managing containers, images, volumes, networks, and Helm stacks across multi-cluster environments. 🐳
 
 - **[Nginx Proxy Manager](https://github.com/NginxProxyManager/nginx-proxy-manager)** [![Stars](https://img.shields.io/github/stars/NginxProxyManager/nginx-proxy-manager?style=social&color=white)](https://github.com/NginxProxyManager/nginx-proxy-manager/stargazers)  
-  **Docker container for managing Nginx proxy hosts with a web UI**, MIT licensed. **34,334+ GitHub stars** — Expose internal cloud services easily and securely with automated Let's Encrypt SSL certificates, access lists, and custom location routing via an intuitive web dashboard. 🌐
+  **Docker container for managing Nginx proxy hosts with a web UI**, MIT licensed. **34,334+ GitHub_Stars** — Expose internal cloud services easily and securely with automated Let's Encrypt SSL certificates, access lists, and custom location routing via an intuitive web dashboard. 🌐
 
 - **[Dokku](https://github.com/dokku/dokku)** [![Stars](https://img.shields.io/github/stars/dokku/dokku?style=social&color=white)](https://github.com/dokku/dokku/stargazers)  
-  **Docker powered mini-Heroku in CLI & Web UI ecosystem**, MIT licensed. **32,171+ GitHub stars** — The smallest PaaS implementation you will ever see. Docker-powered platform for deploying and managing applications on your own servers via Git push. ⚓
+  **Docker powered mini-Heroku in CLI & Web UI ecosystem**, MIT licensed. **32,171+ GitHub_Stars** — The smallest PaaS implementation you will ever see. Docker-powered platform for deploying and managing applications on your own servers via Git push. ⚓
 
 - **[Rancher](https://github.com/rancher/rancher)** [![Stars](https://img.shields.io/github/stars/rancher/rancher?style=social&color=white)](https://github.com/rancher/rancher/stargazers)  
-  **Complete Kubernetes management platform**, Apache-2.0 licensed. **25,961+ GitHub stars** — Enterprise-grade multi-cluster Kubernetes management console with built-in security, monitoring, logging, and application catalog. ☸️
+  **Complete Kubernetes management platform**, Apache-2.0 licensed. **25,961+ GitHub_Stars** — Enterprise-grade multi-cluster Kubernetes management console with built-in security, monitoring, logging, and application catalog. ☸️
 
 - **[Kubernetes Dashboard](https://github.com/kubernetes/dashboard)** [![Stars](https://img.shields.io/github/stars/kubernetes/dashboard?style=social&color=white)](https://github.com/kubernetes/dashboard/stargazers)  
-  **General purpose web-based UI for Kubernetes clusters**, Apache-2.0 licensed. **15,408+ GitHub stars** — Official general-purpose web-based UI for Kubernetes clusters. Inspect workloads, troubleshoot pod failures, and manage containerized applications directly in the browser. ☸️
+  **General purpose web-based UI for Kubernetes clusters**, Apache-2.0 licensed. **15,408+ GitHub_Stars** — Official general-purpose web-based UI for Kubernetes clusters. Inspect workloads, troubleshoot pod failures, and manage containerized applications directly in the browser. ☸️
 
 - **[Cockpit](https://github.com/cockpit-project/cockpit)** [![Stars](https://img.shields.io/github/stars/cockpit-project/cockpit?style=social&color=white)](https://github.com/cockpit-project/cockpit/stargazers)  
-  **Web-based graphical interface for Linux servers**, LGPL-2.1 licensed. **15,185+ GitHub stars** — Lightweight browser-based server control panel used by RHEL, Fedora, Debian, and Ubuntu. Includes browser terminal, systemd management, network configuration, and disk storage monitoring. 🐧
+  **Web-based graphical interface for Linux servers**, LGPL-2.1 licensed. **15,185+ GitHub_Stars** — Lightweight browser-based server control panel used by RHEL, Fedora, Debian, and Ubuntu. Includes browser terminal, systemd management, network configuration, and disk storage monitoring. 🐧
 
 - **[CapRover](https://github.com/caprover/caprover)** [![Stars](https://img.shields.io/github/stars/caprover/caprover?style=social&color=white)](https://github.com/caprover/caprover/stargazers)  
-  **Automated App Deployer & Build Server**, Apache-2.0 licensed. **15,180+ GitHub stars** — Extremely easy-to-use PaaS web dashboard for NodeJS, Python, PHP, Ruby, MySQL, MongoDB, and Postgres apps with 1-click template deployments. 🚀
+  **Automated App Deployer & Build Server**, Apache-2.0 licensed. **15,180+ GitHub_Stars** — Extremely easy-to-use PaaS web dashboard for NodeJS, Python, PHP, Ruby, MySQL, MongoDB, and Postgres apps with 1-click template deployments. 🚀
 
 - **[Headlamp (CNCF)](https://github.com/headlamp-k8s/headlamp)** [![Stars](https://img.shields.io/github/stars/headlamp-k8s/headlamp?style=social&color=white)](https://github.com/headlamp-k8s/headlamp/stargazers)  
-  **Kubernetes UI with plugin architecture**, Apache-2.0 licensed. **7,393+ GitHub stars** — CNCF Sandbox project providing a modern multi-cluster Kubernetes console with extensible React plugins and real-time resource visualization. 🪔
+  **Kubernetes UI with plugin architecture**, Apache-2.0 licensed. **7,393+ GitHub_Stars** — CNCF Sandbox project providing a modern multi-cluster Kubernetes console with extensible React plugins and real-time resource visualization. 🪔
 
 - **[Apache CloudStack UI](https://github.com/apache/cloudstack)** [![Stars](https://img.shields.io/github/stars/apache/cloudstack?style=social&color=white)](https://github.com/apache/cloudstack/stargazers)  
-  **CloudStack web console**, Apache-2.0 licensed. **3,089+ GitHub stars** — Turnkey IaaS platform web portal for public and private cloud orchestration, compute provisioning, and self-service multi-tenancy. ☁️
+  **CloudStack web console**, Apache-2.0 licensed. **3,089+ GitHub_Stars** — Turnkey IaaS platform web portal for public and private cloud orchestration, compute provisioning, and self-service multi-tenancy. ☁️
 
 - **[aaPanel](https://github.com/aaPanel/aaPanel)** [![Stars](https://img.shields.io/github/stars/aaPanel/aaPanel?style=social&color=white)](https://github.com/aaPanel/aaPanel/stargazers)  
-  **Simple but powerful Web Hosting Control Panel**, GPL-3.0 licensed. **3,065+ GitHub stars** — Web-based server management control panel to manage LNMP/LAMP web stacks, databases, FTP, files, and cron jobs with 1-click installation scripts. 🎛️
+  **Simple but powerful Web Hosting Control Panel**, GPL-3.0 licensed. **3,065+ GitHub_Stars** — Web-based server management control panel to manage LNMP/LAMP web stacks, databases, FTP, files, and cron jobs with 1-click installation scripts. 🎛️
 
 - **[OpenNebula Sunstone](https://github.com/OpenNebula/one)** [![Stars](https://img.shields.io/github/stars/OpenNebula/one?style=social&color=white)](https://github.com/OpenNebula/one/stargazers)  
-  **OpenNebula web console**, Apache-2.0 licensed. **1,750+ GitHub stars** — Lightweight cloud management console for private, hybrid, and edge clouds with virtual machine management and enterprise federation. 🌐
+  **OpenNebula web console**, Apache-2.0 licensed. **1,750+ GitHub_Stars** — Lightweight cloud management console for private, hybrid, and edge clouds with virtual machine management and enterprise federation. 🌐
 
 - **[OpenStack Horizon](https://github.com/openstack/horizon)** [![Stars](https://img.shields.io/github/stars/openstack/horizon?style=social&color=white)](https://github.com/openstack/horizon/stargazers)  
-  **OpenStack dashboard**, Apache-2.0 licensed. **1,406+ GitHub stars** — Canonical web interface for OpenStack cloud infrastructure. Provision compute instances, block storage, networks, and keypairs. 🏗️
+  **OpenStack dashboard**, Apache-2.0 licensed. **1,406+ GitHub_Stars** — Canonical web interface for OpenStack cloud infrastructure. Provision compute instances, block storage, networks, and keypairs. 🏗️
 
 - **[Xen Orchestra](https://github.com/vatesfr/xen-orchestra)** [![Stars](https://img.shields.io/github/stars/vatesfr/xen-orchestra?style=social&color=white)](https://github.com/vatesfr/xen-orchestra/stargazers)  
-  **Web management console for XenServer and XCP-ng**, AGPL-3.0 licensed. **992+ GitHub stars** — Complete web interface for XCP-ng and XenServer hypervisors, featuring live VM migration, automated backups, and metric graphs. 🛡️
+  **Web management console for XenServer and XCP-ng**, AGPL-3.0 licensed. **992+ GitHub_Stars** — Complete web interface for XCP-ng and XenServer hypervisors, featuring live VM migration, automated backups, and metric graphs. 🛡️
 
 - **[Cockpit Podman](https://github.com/cockpit-project/cockpit-podman)** [![Stars](https://img.shields.io/github/stars/cockpit-project/cockpit-podman?style=social&color=white)](https://github.com/cockpit-project/cockpit-podman/stargazers)  
-  **Podman container management plugin for Cockpit**, LGPL-2.1 licensed. **643+ GitHub stars** — Web interface extension for Cockpit to manage daemonless Podman containers, images, and pods. 🎛️
+  **Podman container management plugin for Cockpit**, LGPL-2.1 licensed. **643+ GitHub_Stars** — Web interface extension for Cockpit to manage daemonless Podman containers, images, and pods. 🎛️
 
 - **[oVirt WebAdmin](https://github.com/oVirt/ovirt-engine)** [![Stars](https://img.shields.io/github/stars/oVirt/ovirt-engine?style=social&color=white)](https://github.com/oVirt/ovirt-engine/stargazers)  
-  **oVirt web administration portal**, Apache-2.0 licensed. **611+ GitHub stars** — Feature-rich open-source virtualization management console providing enterprise KVM management and high availability. 🏢
+  **oVirt web administration portal**, Apache-2.0 licensed. **611+ GitHub_Stars** — Feature-rich open-source virtualization management console providing enterprise KVM management and high availability. 🏢
 
 - **[Proxmox VE Web UI](https://github.com/proxmox/pve-manager)** [![Stars](https://img.shields.io/github/stars/proxmox/pve-manager?style=social&color=white)](https://github.com/proxmox/pve-manager/stargazers)  
-  **Proxmox VE web management interface**, AGPL-3.0 licensed. **101+ GitHub stars** — Official web console for the Proxmox VE hypervisor, integrating KVM virtualization, LXC containers, software-defined storage, and clustering. 🎯
+  **Proxmox VE web management interface**, AGPL-3.0 licensed. **101+ GitHub_Stars** — Official web console for the Proxmox VE hypervisor, integrating KVM virtualization, LXC containers, software-defined storage, and clustering. 🎯
 
 ---
 
@@ -122,7 +122,7 @@ Contributions are welcome! Follow these steps to submit new cloud console platfo
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact Stars Count, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
